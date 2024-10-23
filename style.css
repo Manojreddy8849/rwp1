@@ -13,7 +13,9 @@ header {
     display: flex;
     justify-content: space-around;
     height: 60px;
-    background-color: aqua;
+    background-color: #fff;
+    position: sticky;
+    top: 0px;
     padding: 20px;
 }
 
